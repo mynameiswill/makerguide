@@ -1,0 +1,81 @@
+
+
+
+#ToC{
+	 margin: auto;
+    width: 50%;
+    text-align: center;
+    text-decoration: none;
+}	
+
+#ToC>ul{
+list-style-type: none;
+padding:0px;
+margin-top: 25px;
+margin-bottom: 175px;
+}
+
+#ToC li{
+font-size: 24px; 
+}
+
+.machine{
+padding-bottom: 125px;
+}
+
+.machine h3{
+text-decoration:underline;
+}
+
+
+.header {
+border-bottom:none;
+}
+
+img{
+width: 45%;
+border: 4px black solid;
+}
+
+
+.projectstep p{
+padding-top:65px;
+font-size: 16px;
+}
+
+#4a{
+margin-left: 10px;
+}
+
+.projectstep{
+border-bottom: 1px grey solid;
+padding-bottom: 10px;
+padding-top: 35px;
+}
+
+
+#printerdesc {
+text-align:center;
+padding-top: 10px;
+padding-bottom: 10px;
+
+}
+
+#printerdesc img{
+margin:auto;
+
+}
+
+#printerdesc h4{
+border: 2px black solid;
+width: 200px;	
+margin:auto;
+margin-top: 15px;
+margin-bottom: 5px;
+
+}
+
+#printerdesc ul{
+
+}
+
